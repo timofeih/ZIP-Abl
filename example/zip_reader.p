@@ -1,6 +1,6 @@
 
 /*------------------------------------------------------------------------
-    File        : test_zip_reader.p
+    File        : zip_reader.p
     Purpose     : 
 
     Syntax      :
@@ -8,7 +8,7 @@
     Description : 
 
     Author(s)   : hutorovski
-    Created     : Fri Mar 14 09:49:46 EET 2025
+    Created     : Fri Apr 04 12:12:33 EEST 2025
     Notes       :
   ----------------------------------------------------------------------*/
 
