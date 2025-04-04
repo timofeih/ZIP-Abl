@@ -2,3 +2,6 @@
 *.pl
 results.xml
 ablunit.log
+.project
+.propath
+/.settings/
